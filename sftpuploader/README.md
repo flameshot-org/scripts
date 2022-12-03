@@ -27,5 +27,6 @@
 4. press the + button
 
 ![](https://img.yasuakii.com/2022-12-03_18-52_IjGCuV2U.png)
+
 5. give it a name and put the path to script and than click the Set Shortcut button and press the key you want to use
 6. press the Add button and now your done
