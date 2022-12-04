@@ -4,7 +4,8 @@
 ## Title: Upload your screenshots to a server via sftp                        ##        
 ################################################################################
 ## Description:                                                               ##
-## ??????????                                                                 ##
+## with this script you can upload your screenshots you take to a server      ##
+## via sftp                                                                   ##
 ################################################################################
 ## Maintainer:                                                                ##
 ##  - Matthias                                                                ##
